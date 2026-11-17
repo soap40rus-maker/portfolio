@@ -58,5 +58,6 @@
 
 ---
 📫 **Контакты для связи:** 
-Telegram: @R7Tonn
-Email: soap40rus@gmail.com
+
+* **Telegram:** [@R7Tonn](https://t.me)
+* **Email:** soap40rus@gmail.com
