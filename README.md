@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio LLM Auditor
 # AI Trainer & Quality Rater | Zero Trust Audit
 
 **Специализация:** Аудит ответов LLM, выявление галлюцинаций, фактчекинг, оценка безопасности (Safety) и точности (Accuracy).
